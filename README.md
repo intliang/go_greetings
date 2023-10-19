@@ -1,1 +1,1 @@
-# go_greetings
+greeting for helloworld example by golang.
